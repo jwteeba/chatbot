@@ -30,3 +30,5 @@ Dataset description: This corpus contains a large metadata-rich collection of fi
     - position on movie credits (3,321 characters)
 
 - see README.txt (included) for details
+
+REF : https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
